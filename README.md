@@ -1,4 +1,6 @@
-This repo is archived.
+# QaToolkit
+Forked from [MalitsPlus/HoshimiToolkit](https://github.com/MalitsPlus/HoshimiToolkit).  
+Modified the resource decryption components used for IdolyPride  and create a copy for Gakuen IdolMaster.
 
 # What is this repo
 
@@ -6,7 +8,9 @@ This monorepo contains some of my researches related to reverse-engineering for 
 
 ## What is in sub-directories
 
-Each directory in this repo can be considered independent, you can find more detailed information described in the README inside there.
+Each directory in this repo can be considered independent, you can find more detailed information described in the README inside there.  
+[Idoly Pride](https://github.com/DreamGallery/HoshimiToolkit/blob/main/README.md)  
+[Gakuen IdolMaster](https://github.com/DreamGallery/HatsuboshiToolkit/blob/main/README.md)
 
 ## DISCLAIMER
 

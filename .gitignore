@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# vscode
+.vscode
+
 # C extensions
 *.so
 
@@ -130,4 +133,6 @@ dmypy.json
 
 # Costum files
 *.db
-cache/
+*/cache/*
+!*/cache/
+!*/cache/.gitkeep

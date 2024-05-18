@@ -1,0 +1,6 @@
+[submodule "HatsuboshiToolkit"]
+	path = HatsuboshiToolkit
+	url = https://github.com/DreamGallery/HatsuboshiToolkit.git
+[submodule "HoshimiToolkit"]
+	path = HoshimiToolkit
+	url = https://github.com/DreamGallery/HoshimiToolkit.git
